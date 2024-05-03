@@ -1,4 +1,4 @@
 torch==1.4.0
 torchvision==0.4.2
-tqdm==4.36.1
+tqdm==4.66.3
 wurlitzer==2.0.0
